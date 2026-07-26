@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexi.Domain", "Lexi.Domain\Lexi.Domain.csproj", "{D3139425-19E3-4254-96DE-0FE28505F884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexi.Infra", "Lexi.Infra\Lexi.Infra.csproj", "{1150448F-4D6A-49CE-8ED2-D958B7EB9502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexi.Api", "Lexi.Api\Lexi.Api.csproj", "{54999139-5BB7-4350-BC78-C671EF3542A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3139425-19E3-4254-96DE-0FE28505F884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3139425-19E3-4254-96DE-0FE28505F884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3139425-19E3-4254-96DE-0FE28505F884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3139425-19E3-4254-96DE-0FE28505F884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1150448F-4D6A-49CE-8ED2-D958B7EB9502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1150448F-4D6A-49CE-8ED2-D958B7EB9502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1150448F-4D6A-49CE-8ED2-D958B7EB9502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1150448F-4D6A-49CE-8ED2-D958B7EB9502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54999139-5BB7-4350-BC78-C671EF3542A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54999139-5BB7-4350-BC78-C671EF3542A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54999139-5BB7-4350-BC78-C671EF3542A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54999139-5BB7-4350-BC78-C671EF3542A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
